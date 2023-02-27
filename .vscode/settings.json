@@ -1,0 +1,6 @@
+{
+	"i18n-ally.localesPaths": [
+		"src/locale",
+		"E:/development/svelte-i18n-testing/src/lib/i18n/locales"
+	]
+}
